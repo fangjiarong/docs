@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T14:07:33.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Cl10cz6iMBfeW9WvguK1" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T14:43:28.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ttGKoN2WVwynq0J7P-3g" version="22.1.5" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
     <mxGraphModel dx="985" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -200,31 +200,31 @@
           <mxGeometry x="200" y="1420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-19" value="f08危化品量或有毒气体超标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1240" width="120" height="40" as="geometry" />
+          <mxGeometry x="395" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-20" value="f10应急救援防护器材配备不足" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1310" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-21" value="f11管道损坏、失效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="395" y="1370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-22" value="f12装备设计有问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1420" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="1420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-23" value="f13防爆工具、防火措施或电器不符合要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="1240" width="120" height="40" as="geometry" />
+          <mxGeometry x="563" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-24" value="f14泄漏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1310" width="120" height="40" as="geometry" />
+          <mxGeometry x="563" y="1310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-25" value="f15密封或隔离不当、失效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1370" width="120" height="40" as="geometry" />
+          <mxGeometry x="565" y="1370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-26" value="f16设备运行过程中着火源周围有足够的可燃性混合物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1420" width="120" height="40" as="geometry" />
+          <mxGeometry x="571" y="1420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-27" value="f18作业现场的着火源遇到足够的可燃性混合物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="1240" width="120" height="40" as="geometry" />
+          <mxGeometry x="740" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
