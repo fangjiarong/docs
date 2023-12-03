@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T13:57:21.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SFncm55PgZBFQyBtZOHK" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T14:07:33.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Cl10cz6iMBfeW9WvguK1" version="22.1.5" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
     <mxGraphModel dx="985" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -77,16 +77,16 @@
           <mxGeometry x="672" y="431" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-31" value="d01未按规定制定应急预案并组织演练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="498" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-32" value="d02安全生产教育培训和技能培训不足或考核不严格" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="443" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-33" value="d03安全检查和管理不落实" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-35" value="d05作业安全管理不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="694" y="645" width="148" height="40" as="geometry" />
+          <mxGeometry x="602" y="670" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-36" value="d06未按规定逐步完善修订并落实相关安全生产操作规程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="800" width="120" height="40" as="geometry" />
@@ -107,46 +107,43 @@
           <mxGeometry x="252" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-47" value="d17重大危险源（风险）管控措施不落实或不到位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="780" y="710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-48" value="d18安全管理混乱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="523" y="645" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-49" value="未履行安全生产主体责任" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="890" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-49" value="d19未履行安全生产主体责任" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-51" value="未能制定详细安全管理规定和采取可靠防范措施" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="691" y="890" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-51" value="d23安全投入不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="890" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-60" value="盲目抢修作业与施救" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="272" y="1130" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-60" value="e06盲目抢修作业与施救" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="792" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-61" value="施工作业未履行职责或遵守规程和安全协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="252" y="1010" width="140" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-61" value="e11作业未履行职责或遵守规程和安全协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1000" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-63" value="应急处理能力较差" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="722" y="1020" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-63" value="e07应急处理能力较差" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-65" value="员工风险识别不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="502" y="1070" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-65" value="e03员工风险识别不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-68" value="员工安全意识较差" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="252" y="1070" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-68" value="e04员工安全意识较差" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-70" value="作业人员未佩戴防护用具" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="443" y="1130" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-70" value="e12员工劳动纪律涣散，无责任心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-71" value="专业知识技能掌握不熟练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="691" y="1130" width="120" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-71" value="e05专业知识技能掌握不熟练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-72" value="安全员、监护监控人员对岗位安全职责不清晰且履行不到位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="473" y="1010" width="170" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-72" value="e10现场安全管理缺失" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="1010" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-85" value="泄漏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1365" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-91" value="检修或施工现场的着火源遇到足够的可燃性混合物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="612" y="1365" width="180" height="40" as="geometry" />
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-85" value="f03压力过大" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="D2HSwKxdKyaoGHdWPaQV-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -176,7 +173,58 @@
           <mxGeometry x="602" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-10" value="d15物资采购管理存在漏洞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="642" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="612" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-11" value="d20违反建设项目安全设施“三同时”规定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-12" value="d25擅自改变工艺路线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-13" value="d27无立项、规划手续建设项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602" y="810" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-14" value="e08物料排放处理不干净" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1070" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-15" value="e09预警（防护）措施执行不到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-16" value="f01温度升高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-17" value="f04设备老化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-18" value="f07监控、预警设备不足或损坏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-19" value="f08危化品量或有毒气体超标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-20" value="f10应急救援防护器材配备不足" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-21" value="f11管道损坏、失效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-22" value="f12装备设计有问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-23" value="f13防爆工具、防火措施或电器不符合要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-24" value="f14泄漏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-25" value="f15密封或隔离不当、失效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-26" value="f16设备运行过程中着火源周围有足够的可燃性混合物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpaYwVjUg7fbwdwy47s0-27" value="f18作业现场的着火源遇到足够的可燃性混合物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
