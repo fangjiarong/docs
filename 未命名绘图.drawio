@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T08:26:24.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rjvOH4johwKvx6BKiVKc" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T08:29:18.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DuMYBeSpVwb0l76QiDh_" version="22.1.17" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,8 +31,22 @@
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-16" value="g01&lt;br&gt;安全发展理念不牢" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="363" y="70" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7SNBnwVA3aRYyQUwE5cQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-20" target="D2HSwKxdKyaoGHdWPaQV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-20" value="r01&lt;br&gt;安全监管不力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="303" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7SNBnwVA3aRYyQUwE5cQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-21" target="D2HSwKxdKyaoGHdWPaQV-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="532" y="240" />
+              <mxPoint x="387" y="240" />
+              <mxPoint x="387" y="370" />
+              <mxPoint x="270" y="370" />
+              <mxPoint x="270" y="414" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-21" value="r02&lt;br&gt;执法检查不严" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="532" y="170" width="120" height="40" as="geometry" />
@@ -52,6 +66,9 @@
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-32" value="t02&lt;br&gt;安全生产教育培训和技能培训存在缺陷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="510" width="145.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="7SNBnwVA3aRYyQUwE5cQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-35" target="D2HSwKxdKyaoGHdWPaQV-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-35" value="t03&lt;br&gt;检维修与动火作业审批管理不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="583.75" y="512.5" width="132.5" height="65" as="geometry" />
         </mxCell>
@@ -61,8 +78,18 @@
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-42" value="t07&lt;br&gt;设备巡查与管理漏洞严重" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="642" width="170" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="7SNBnwVA3aRYyQUwE5cQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-43" target="cpaYwVjUg7fbwdwy47s0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="542" />
+              <mxPoint x="760" y="542" />
+              <mxPoint x="760" y="460" />
+              <mxPoint x="710" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-43" value="t08&lt;br&gt;施工方案和技术交底不完善" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="642" width="160" height="83" as="geometry" />
+          <mxGeometry x="760" y="650" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-44" value="d09&lt;br&gt;对施工单位、技术服务公司、承包商等监管不到位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="642" width="150" height="100" as="geometry" />
@@ -101,7 +128,7 @@
           <mxGeometry x="810" y="300" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-6" value="c05&lt;br&gt;对所属企业安全生产监督指导不力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="332" y="394" width="187" height="40" as="geometry" />
+          <mxGeometry x="330" y="394" width="187" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-7" value="c06&lt;br&gt;安全检查和管理制度存在缺陷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625.5" y="394" width="169" height="40" as="geometry" />
@@ -225,6 +252,12 @@
         </mxCell>
         <mxCell id="7SNBnwVA3aRYyQUwE5cQ-35" value="e12&lt;br&gt;危化品储存方式或者数量不符合规定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7SNBnwVA3aRYyQUwE5cQ-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7SNBnwVA3aRYyQUwE5cQ-1" target="D2HSwKxdKyaoGHdWPaQV-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
