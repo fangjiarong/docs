@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T14:26:08.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vZPkF8J7yhBNGKgMxiq3" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T14:31:08.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Tt3QcBwV1rgdQ14Vgyq0" version="22.1.17" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
-    <mxGraphModel dx="2814" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2421" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,12 +44,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="710" as="sourcePoint" />
             <mxPoint x="290" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mtfviob82MPcd9y9G0oO-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-31" target="D2HSwKxdKyaoGHdWPaQV-63" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="650" as="sourcePoint" />
-            <mxPoint x="360" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-43" target="D2HSwKxdKyaoGHdWPaQV-46">
@@ -156,6 +150,15 @@
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-28" value="c04&lt;br&gt;安全生产责任未落实" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="474" y="360" width="158" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tey20wOVT-5CfHOspJdX-124" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-31" target="D2HSwKxdKyaoGHdWPaQV-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="626" />
+              <mxPoint x="-220" y="900" />
+              <mxPoint x="950" y="900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-31" value="t01&lt;br&gt;应急预案编制与组织演练存在缺陷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-192.5" y="546" width="139" height="80" as="geometry" />
