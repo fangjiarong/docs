@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T08:31:01.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_PN_i90y6Piv42MJpfl2" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:48:19.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sIZr7uy-1_mp602tmPDW" version="22.1.17" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2270" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,11 +39,29 @@
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-21" value="r02&lt;br&gt;执法检查不严" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505.5" y="170" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Tey20wOVT-5CfHOspJdX-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-25" target="D2HSwKxdKyaoGHdWPaQV-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="350" />
+              <mxPoint x="-100" y="620" />
+              <mxPoint x="345" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-25" value="c01&lt;br&gt;违规出具虚假安全评价报告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="310" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Tey20wOVT-5CfHOspJdX-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-26" target="D2HSwKxdKyaoGHdWPaQV-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="808" y="500" />
+              <mxPoint x="940" y="500" />
+              <mxPoint x="940" y="642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-26" value="c02&lt;br&gt;违规提供技术服务工作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="290" width="137" height="40" as="geometry" />
+          <mxGeometry x="720" y="280" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-28" target="cpaYwVjUg7fbwdwy47s0-6">
           <mxGeometry relative="1" as="geometry">
@@ -51,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-28" value="c04&lt;br&gt;安全生产责任未落实" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="373.63" y="394" width="158" height="40" as="geometry" />
+          <mxGeometry x="367.26" y="374" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-31" value="t01&lt;br&gt;应急预案编制与组织演练存在缺陷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="515" width="139" height="80" as="geometry" />
@@ -123,7 +141,7 @@
           <mxGeometry x="60" y="394" width="187" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-7" value="c06&lt;br&gt;安全检查和管理制度存在缺陷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="625.5" y="394" width="169" height="40" as="geometry" />
+          <mxGeometry x="650" y="374" width="169" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpaYwVjUg7fbwdwy47s0-11" value="t13&lt;br&gt;违反建设项目安全设施“三同时”规定" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827.5" y="760" width="99" height="70" as="geometry" />
@@ -144,13 +162,13 @@
           <mxGeometry x="760" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7SNBnwVA3aRYyQUwE5cQ-3" value="c07&lt;br&gt;安全生产投入严重不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="394" width="150" height="40" as="geometry" />
+          <mxGeometry x="947.5" y="374" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7SNBnwVA3aRYyQUwE5cQ-10" value="t05&lt;br&gt;安全意识薄弱和隐患排查治理力度不够" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="680" width="120" height="63" as="geometry" />
+          <mxGeometry x="-20" y="690" width="120" height="63" as="geometry" />
         </mxCell>
         <mxCell id="7SNBnwVA3aRYyQUwE5cQ-11" value="t06&lt;br&gt;事故整改措施不落实" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="243" y="679" width="120" height="63" as="geometry" />
+          <mxGeometry x="-105" y="793.5" width="120" height="63" as="geometry" />
         </mxCell>
         <mxCell id="7SNBnwVA3aRYyQUwE5cQ-13" value="t10&lt;br&gt;物资采购管理存在漏洞" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="780" width="130" height="90" as="geometry" />
@@ -329,15 +347,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="1390" as="sourcePoint" />
             <mxPoint x="910" y="1340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mtfviob82MPcd9y9G0oO-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-26" target="D2HSwKxdKyaoGHdWPaQV-44" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="440" as="sourcePoint" />
-            <mxPoint x="900" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="880" y="530" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mtfviob82MPcd9y9G0oO-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cpaYwVjUg7fbwdwy47s0-7" target="D2HSwKxdKyaoGHdWPaQV-44" edge="1">
@@ -810,12 +819,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="220" as="sourcePoint" />
             <mxPoint x="1100" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="370" />
+              <mxPoint x="1300" y="760" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-16" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7SNBnwVA3aRYyQUwE5cQ-2" target="7SNBnwVA3aRYyQUwE5cQ-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="240" as="sourcePoint" />
             <mxPoint x="290" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-50" y="250" />
+              <mxPoint x="-70" y="400" />
+              <mxPoint x="70" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
