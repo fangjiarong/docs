@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T03:50:36.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="q9p_Xc2JoYLZl9CtBxsz" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T03:56:11.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vwuRc4j6m170KkaUYKFJ" version="22.1.17" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
-    <mxGraphModel dx="2536" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -278,7 +278,7 @@
           <mxGeometry x="1190" y="360" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7SNBnwVA3aRYyQUwE5cQ-13" value="t10&lt;br&gt;物资采购管理存在漏洞" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="790" width="130" height="90" as="geometry" />
+          <mxGeometry x="1130" y="847" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-112" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7SNBnwVA3aRYyQUwE5cQ-16" target="D2HSwKxdKyaoGHdWPaQV-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -745,7 +745,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-47" value="t12&lt;br&gt;重大危险源管控和防范措施有缺陷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="757" width="100" height="90" as="geometry" />
+          <mxGeometry x="861.25" y="700" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cpaYwVjUg7fbwdwy47s0-7" target="7SNBnwVA3aRYyQUwE5cQ-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -763,7 +763,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7SNBnwVA3aRYyQUwE5cQ-10" value="t05&lt;br&gt;安全意识薄弱和隐患排查治理力度不够" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="561" width="150" height="60" as="geometry" />
+          <mxGeometry x="870" y="570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-42" target="7SNBnwVA3aRYyQUwE5cQ-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -778,7 +778,7 @@
           <mxGeometry x="1210" y="767" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-46" value="t11&lt;br&gt;开展风险评估和危险源辨识评估工作不到位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="583" y="755" width="127" height="90" as="geometry" />
+          <mxGeometry x="739.5" y="750" width="90.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-7" value="监管机构与协会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1290" y="230" width="100" height="30" as="geometry" />
