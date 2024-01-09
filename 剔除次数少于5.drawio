@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T03:16:03.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bkNEKpV5WhLP3A7zjF3y" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T03:50:36.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="q9p_Xc2JoYLZl9CtBxsz" version="22.1.17" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
-    <mxGraphModel dx="1941" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2536" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,18 +20,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="790" as="sourcePoint" />
             <mxPoint x="850" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-YzqSGN3mpUyqdpqYy5V-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-43" target="D2HSwKxdKyaoGHdWPaQV-46" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="710" as="sourcePoint" />
-            <mxPoint x="290" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tey20wOVT-5CfHOspJdX-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-43" target="D2HSwKxdKyaoGHdWPaQV-46" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="827" as="sourcePoint" />
-            <mxPoint x="878" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mtfviob82MPcd9y9G0oO-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-28" target="D2HSwKxdKyaoGHdWPaQV-61" edge="1">
@@ -162,9 +150,14 @@
             <mxPoint x="30" y="1120" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-112" y="1030" />
-              <mxPoint x="65" y="1030" />
+              <mxPoint x="10" y="1030" />
+              <mxPoint x="10" y="1140" />
+              <mxPoint x="65" y="1140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U7l6EVNEB7PfGx6SXFJ--15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2HSwKxdKyaoGHdWPaQV-43" target="D2HSwKxdKyaoGHdWPaQV-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-43" value="t08&lt;br&gt;施工方案和技术交底不完善" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-192.5" y="770" width="160" height="60" as="geometry" />
@@ -176,7 +169,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-60" value="s04&lt;br&gt;盲目抢修作业与施救" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="632" y="965" width="132.5" height="50" as="geometry" />
+          <mxGeometry x="710" y="970" width="132.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-61" target="7SNBnwVA3aRYyQUwE5cQ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -743,7 +736,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-35" value="t03&lt;br&gt;检维修与动火作业审批管理不足" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="542.5" width="132.5" height="65" as="geometry" />
+          <mxGeometry x="373" y="530" width="132.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Tey20wOVT-5CfHOspJdX-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-46" target="D2HSwKxdKyaoGHdWPaQV-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
