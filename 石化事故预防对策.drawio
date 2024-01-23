@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T02:26:02.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="cA8EYks2m7m1OJoIiN03" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T02:30:11.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PuXu9yE-MsJjmAhoSAfg" version="22.1.21" type="github">
   <diagram name="第 1 页" id="eRkECIUERSuDg0kpVoh2">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d_Nnq1o87KY86yOEaXaV-1" value="石化事故预防与控制策略" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="142" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Nnq1o87KY86yOEaXaV-2" value="政府政策与预算层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Nnq1o87KY86yOEaXaV-3" value="技术和运营管理层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="402" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Nnq1o87KY86yOEaXaV-4" value="事故进程和人员活动层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="402" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Nnq1o87KY86yOEaXaV-5" value="设备与环境层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Nnq1o87KY86yOEaXaV-6" value="企业管理层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Nnq1o87KY86yOEaXaV-7" value="监管机构和协会层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
