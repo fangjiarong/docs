@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T07:37:27.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zafnln5LGVqonB2TO1bd" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T07:45:13.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LBvOt8kD8v239sYA8YoD" version="23.0.2" type="github">
   <diagram name="第 1 页" id="cSXOt_If06tRuQNw9_Id">
-    <mxGraphModel dx="2421" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3707" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,10 +37,10 @@
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;政府政策与预算&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1350" y="90" width="149" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;相关企业管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;企业管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1370" y="417" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;设备与周围环境&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;设备与环境&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1350" y="1783" width="149" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-16" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;g01&lt;br style=&quot;font-size: 17px;&quot;&gt;安全发展理念不牢&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;labelBorderColor=none;fontSize=17;" parent="1" vertex="1">
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="585" y="310" />
-              <mxPoint x="73" y="310" />
+              <mxPoint x="68" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,7 +80,7 @@
             <mxPoint x="290" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7l6EVNEB7PfGx6SXFJ--35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.156;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;align=center;verticalAlign=middle;labelBorderColor=none;fontSize=17;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-26" target="7SNBnwVA3aRYyQUwE5cQ-16" edge="1">
+        <mxCell id="U7l6EVNEB7PfGx6SXFJ--35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.156;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;align=center;verticalAlign=middle;labelBorderColor=none;fontSize=17;" parent="1" source="D2HSwKxdKyaoGHdWPaQV-26" target="7SNBnwVA3aRYyQUwE5cQ-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-26" value="c02&lt;br style=&quot;font-size: 17px;&quot;&gt;违规提供技术服务工作" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;labelBorderColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
@@ -706,7 +706,7 @@
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-63" value="s05&lt;br style=&quot;font-size: 17px;&quot;&gt;应急处理能力较差" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;labelBorderColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="880" y="982.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2HSwKxdKyaoGHdWPaQV-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术和业务管&lt;/font&gt;理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="D2HSwKxdKyaoGHdWPaQV-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术和运营管&lt;/font&gt;理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1350" y="890" width="149" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;事故进程与人员活动&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
@@ -716,7 +716,7 @@
           <mxGeometry x="-20" y="1167.5" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D2HSwKxdKyaoGHdWPaQV-25" value="c01&lt;br style=&quot;font-size: 17px;&quot;&gt;违规出具虚假安全评价报告" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;verticalAlign=middle;labelBorderColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-266.25" y="310" width="210" height="40" as="geometry" />
+          <mxGeometry x="-266.25" y="360" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
